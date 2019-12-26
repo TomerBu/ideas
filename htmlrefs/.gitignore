@@ -1,0 +1,2 @@
+#override a setting in the parent folders .gitignore
+!/*.html
